@@ -9,4 +9,5 @@ Step 1: Download the kparser.zip file from the location mentioned above and extr
 Step 2: Follow the Usage instructions present in the README file present in the extracted directory.
 
 
-The javadocs for the library are available at 
+The javadocs for the library are available at:
+http://bioai8core.fulton.asu.edu/kparser_java_docs/
